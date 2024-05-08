@@ -5,7 +5,7 @@
    
 2. Ссылки на поясняющие справочные материалы: \
    а1). ABAP-справка 7.52 [Global temporary Tables in ABAP](https://help.sap.com/doc/abapdocu_752_index_htm/7.52/en-US/abenddic_database_tables_gtt.htm) \
-   а2). GTT в ABAP появляются с релиза [7.50](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/index.htm?file=abennews-750-types.htm)
+   а2). GTT в ABAP появляются с релиза [7.50](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/index.htm?file=abennews-750-types.htm) \
    б1). Ссылка на описание на [хабре](https://habr.com/ru/articles/812985/) \
    ц1). Реализация Temporary Tables в [Oracle](https://oracle-base.com/articles/misc/temporary-tables) \
    ц2). Create Temporary Tables [в HANA](https://help.sap.com/docs/SAP_HANA_PLATFORM/4fe29514fd584807ac9f2a04f6754767/20d58a5f75191014b2fe92141b7df228.html#loio20d58a5f75191014b2fe92141b7df228__create_table_global_temporary_option) \
