@@ -3,7 +3,7 @@
 
 Пример использования GTT (Global Temporary Tables) в ABAP с любой базой данных (AbapSQL почти независим от базы данных, но есть нюансы :-) и поэтому в GTT требуется явная очистка temporary table до COMMIT (в том числе неявного) )
    
-## Ссылки на поясняющие справочные материалы: \
+## Ссылки на поясняющие справочные материалы:
    а1). ABAP-справка 7.52 [Global temporary Tables in ABAP](https://help.sap.com/doc/abapdocu_752_index_htm/7.52/en-US/abenddic_database_tables_gtt.htm) \
    а2). GTT в ABAP появляются с релиза [7.50](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/index.htm?file=abennews-750-types.htm) \
    б1). Ссылка на описание на [хабре](https://habr.com/ru/articles/812985/) \
