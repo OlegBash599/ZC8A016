@@ -19,3 +19,4 @@
 
 ## хочется еще больше узнать про ERP-системы ?)
 1) записывайтесь в учебный центр [<B>SAPLand</B>](https://edu.sapland.ru/center/)
+2) делитесь своим опытом / станьте автором [https://sapland.ru/authors/to-author]
